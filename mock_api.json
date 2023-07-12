@@ -1,0 +1,28 @@
+{
+  "emp": [
+  {"id":1,"title":"How to register and login as a nutritionist?", "answer": "Click on Get Started and fill your details in the registraion form, as shown.", "image":"https://i.imgur.com/gwBMIWT.png"},
+{"id":2,"title":"How to login if already a member?", "answer": "After registering as a nutritionist, you can login after filling your login credentials, as shown below","image":"https://i.imgur.com/I21HYzZ.png"},
+{"id":3,"title":"How to check the list of all users?", "answer": " For checking the list of total users, refer to this.", "image":"https://i.imgur.com/qLRlkzW.png"},
+{"id":4,"title":"How to delete a particular user?","answer": "You can delete any particular user's account. Check This!", "image":"https://i.imgur.com/0jEKkNO.png"},
+{"id":5,"title":"How to activate an inactivate user?", "answer": "You can activate an inactivate user. Check This!", "image":"blob:https://imgur.com/ba9ffa85-abab-4fb7-929b-a0c49b23a41e"},
+{"id":6,"title":"How to check dashboard stats of a particular user?","answer": "You can check dashboard stats for any particular user's account. Check This!", "image":"https://i.imgur.com/a1HrdiD.png"},
+{"id":7,"title":"How to check the list of all diet plans?", "answer": " For checking the list of all diet plans, refer to this.", "image":"https://i.imgur.com/Yp0uPsA.png"},
+{"id":8,"title":"How to create diet plans for existing user?", "answer": "For creating diet plans, refer to this.", "image":"https://i.imgur.com/1uDQmlV.png"},
+{"id":9,"title":"How to create instant diet plans for existing user?", "answer": " For creating instant diet plans, refer to this.", "image":"https://i.imgur.com/qKTAmdE.png"},
+{"id":10,"title":"How to create diet and exercise categories?", "answer": "For creating diet categories, refer to this.", "image":"https://i.imgur.com/hP46S25.png"},
+{"id":11,"title":"How to create diet items?", "answer": " For creating  diet items, refer to this.", "image":"https://i.imgur.com/CfpiWiA.png"},
+{"id":12,"title":"How to check diet and exercise items for particular category?",  "answer": "step-card", "image":"https://i.imgur.com/YlMX1NR.png"},
+{"id":13,"title":"How to check the list of all exercise plans?", "answer": " For checking diet items, click on the particular diet category.", "image":"https://i.imgur.com/NMw9fr8.png"},
+{"id":14,"title":"How to create exercise plans for existing user?", "answer": "For creating exercise plans, refer to this.", "image":"https://i.imgur.com/E3623mg.png"},
+{"id":15,"title":"How to create instant exercise plans for existing user?", "answer": " For creating instant exercise plans, refer to this.", "image":"https://i.imgur.com/xtkXcJ8.png"},
+{"id":16,"title":"How to create exercise categories?", "answer": "For creating diet categories, refer to this.", "image":"https://i.imgur.com/4OpZ5KM.png"},
+{"id":17,"title":"How to create exercise items?", "answer": " For creating exercise items, refer to this.", "image":"https://i.imgur.com/jXnVOvO.png"},
+{"id":13,"title":"How to check the list of all exercise plans?", "answer": " For checking diet items, click on the particular diet category.", "image":"https://i.imgur.com/NMw9fr8.png"}
+
+
+
+
+
+
+  ]
+}
